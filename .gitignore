@@ -1,1 +1,12 @@
-.csv
+*.csv
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.ruff_cache/
+.pytest_cache/
+.mypy_cache/
+
+# uv
+.python-version
